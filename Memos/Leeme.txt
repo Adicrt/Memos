@@ -1,0 +1,10 @@
+Para instalar la wallet , abre "memos-qt.exe".
+
+Para minar memos debes abrir el archivo "mine.bat" , pero para que funcione 
+mueve el archivo "memos.conf" a "\%appdata%\Memos\" despues de haber instalado la
+wallet.
+
+Recuerda desactivar el antivirus al usar el minador o instalar/usar la wallet , ya que 
+lo detectará como virus.
+
+Cualquier duda a mi discord Ad!c#8594.
